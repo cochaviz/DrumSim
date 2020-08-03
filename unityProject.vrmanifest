@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.drumsim.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "/home/zohar/Documents/Projects/DrumSim/Assets/StreamingAssets/SteamVR/actions.json",
+      "strings": {
+        "en_us": {
+          "name": "DrumSim [Testing]"
+        }
+      }
+    }
+  ]
+}
